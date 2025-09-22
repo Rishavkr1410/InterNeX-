@@ -1,30 +1,62 @@
-# Smart internship allocation
+# 🌐 InternXus – Smart AI Internship Allocator  
+A project by Team NeXus for *SIH 2025* (Problem ID: SIH25033) under the theme *Smart Automation in Ministry of Corporate Affairs*  
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
+![License](https://img.shields.io/badge/License-MIT-blue)  
+![Built with](https://img.shields.io/badge/Frontend-React.js-green)  
+![Backend](https://img.shields.io/badge/Backend-Node.js-orange)  
+![Database](https://img.shields.io/badge/Database-PostgreSQL-lightblue)  
+![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-purple)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-Python-red)  
+![Cloud](https://img.shields.io/badge/Cloud-AWS%2FAzure-brightgreen)  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sintusharma47474-3823s-projects/v0-smart-internship-allocation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/hxjXJxJf3gq)
+---
 
-## Overview
+## 📌 Overview  
+InternXus is an *AI-powered web application* designed to ensure *fairness, diversity, and transparency* in the allocation of government internships. It connects *Students, Employers, and Government Admins* in a unified platform.  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+The platform leverages *AI/ML for smart allocation, **AI certificate authentication, and **Blockchain for verified certification* – saving time for both students and employers while providing real-time analytics for government oversight.  
 
-## Deployment
+---
 
-Your project is live at:
+## 🚀 Features  
+### 🔹 Student Module  
+- Registration & profile creation (skills, CGPA, location, categories).  
+- Upload skill certificates → *AI-based verification*.  
+- View recommended internships based on skills & preferences.  
+- Access to real-time skill trends and career insights.  
 
-**[https://vercel.com/sintusharma47474-3823s-projects/v0-smart-internship-allocation](https://vercel.com/sintusharma47474-3823s-projects/v0-smart-internship-allocation)**
+### 🔹 Employer Module  
+- Register & post internship opportunities.  
+- Specify skill requirements, locations, and duration.  
+- View eligible student profiles with smart filters.  
 
-## Build your app
+### 🔹 Government Admin Module  
+- Admin panel with *Smart AI Allocator Engine*.  
+- *Fair distribution* using multi-factor matching (skills + CGPA + location + affirmative action bonus).  
+- Real-time analytics dashboard for tracking diversity, allocation, and completion rate.  
+- Approve & issue *Blockchain-verified internship completion certificates*.  
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/projects/hxjXJxJf3gq](https://v0.app/chat/projects/hxjXJxJf3gq)**
+## 🛠 Tech Stack  
+- *Frontend:* React.js / Next.js, TailwindCSS  
+- *Backend:* Node.js / Spring Boot (Java)  
+- *Database:* PostgreSQL / MongoDB  
+- *AI/ML Models:* Python (Scikit-learn, TensorFlow/PyTorch)  
+- *Blockchain:* Ethereum / Hyperledger for tamper-proof certificates  
+- *Cloud Hosting:* AWS / Azure  
+- *Security:* OAuth 2.0, SSL encryption, Role-based Access Control  
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## ⚙ Workflow (Simplified)  
+```mermaid
+flowchart TD
+    A[Student Registers + Uploads Certificates] --> B[AI Certificate Verification]
+    B --> C[Employer Posts Internship Requirements]
+    C --> D[Smart AI Allocator Engine]
+    D --> E[Matching: Skills + CGPA + Location + Diversity]
+    E --> F[Government Admin Dashboard]
+    F --> G[Allocation Approval + Analytics]
+    G --> H[Blockchain Verified Internship Certificate]
