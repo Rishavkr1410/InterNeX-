@@ -1,4 +1,4 @@
-# 🌐 InternXus – Smart AI Internship Allocator  
+# 🌐 InterNeXus – Smart AI Internship Allocator  
 A project by Team NeXus for *SIH 2025* (Problem ID: SIH25033) under the theme *Smart Automation in Ministry of Corporate Affairs*  
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
