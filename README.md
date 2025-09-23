@@ -40,9 +40,9 @@ The platform leverages *AI/ML for smart allocation, **AI certificate authenticat
 ---
 
 ## 🛠 Tech Stack  
-- *Frontend:* React.js / Next.js, TailwindCSS  
-- *Backend:* Node.js / Spring Boot (Java)  
-- *Database:* PostgreSQL / MongoDB  
+- *Frontend:* React.js , TailwindCSS  
+- *Backend:* Node.js + Spring Boot (Java)  
+- *Database:* PostgreSQL + MongoDB  
 - *AI/ML Models:* Python (Scikit-learn, TensorFlow/PyTorch)  
 - *Blockchain:* Ethereum / Hyperledger for tamper-proof certificates  
 - *Cloud Hosting:* AWS / Azure  
